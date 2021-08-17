@@ -8,3 +8,11 @@ This project aims to analyse the famous credit card fraud detection data set and
 - Plotting the box-plots for each column
 - Determining the class imbalance in the target variable
 
+# Checkpoint achieved - 17th August 2021
+- Applying PCA
+- Plotting the scree plot
+- Determining that PCA is not a correct choice
+- Exploring feature selection techniques
+- Applying suggested feature selection technique 
+- Determining scores corresponding to each feature and finding the top 10 relevant features
+
