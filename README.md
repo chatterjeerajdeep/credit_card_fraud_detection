@@ -16,3 +16,11 @@ This project aims to analyse the famous credit card fraud detection data set and
 - Applying suggested feature selection technique 
 - Determining scores corresponding to each feature and finding the top 10 relevant features
 
+# Checkpoint achieved - 20th August 2021
+- Applying stratification to create train-test split
+- Verified the class imbalance proportion in train-test data 
+- Fit a DecisionTree classifier and find F1 score
+- Apply ccp_alpha pruning on the classifier and find F1 score
+- Apply RandomForest classifier and find F1 score
+- Set the baseline F1 score for reference 
+
